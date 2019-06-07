@@ -1,5 +1,5 @@
 **German to english translation using encoder-decoder model using attention implemented in tensorflow**
-(As a part of the courseproject for "Pattern Recognition and Machine Learning (ES 647)."
+(As a part of the course project for "Pattern Recognition and Machine Learning (ES 647)."
 The embeddings are produced using word2vec.
 
 You can set the number of sentences considered for training by changing sentences_to_read
